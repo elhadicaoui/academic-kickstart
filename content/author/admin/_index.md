@@ -16,7 +16,7 @@ role = "Assistant Professor"
 organizations = [ { name = "University of Toronto", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I am a doctoral candidate at the UCLA Economics Department. My primary research interests are in Empirical Industrial Organization and applied microeconomics. I am on the market in 2018/19 and will be available for interviews at the ASSA meetings in Atlanta (January 4-6th)."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -81,6 +81,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a doctoral candidate at the UCLA Economics Department. My primary research interests are in Empirical Industrial Organization and applied microeconomics. I am on the market in 2018/19 and will be available for interviews at the ASSA meetings in Atlanta (January 4-6th).
