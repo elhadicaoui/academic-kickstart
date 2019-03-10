@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "El Hadi Caoui"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,23 +9,22 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Assistant Professor"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "University of Toronto", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "I am a doctoral candidate at the UCLA Economics Department. My primary research interests are in Empirical Industrial Organization and applied microeconomics. I am on the market in 2018/19 and will be available for interviews at the ASSA meetings in Atlanta (January 4-6th)."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Empirical Industrial Organization",
+  "Applied Microeconomics"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -34,19 +33,19 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Economics"
+  institution = "UCLA"
+  year = 2019
+
+[[education.courses]]
+  course = "MA in Economics "
+  institution = "Paris School of Economics"
+  year = 2014
+
+[[education.courses]]
+  course = "BSc in Economics"
+  institution = "Ecole Polytechnique"
   year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
